@@ -18,7 +18,7 @@ const checkBones = () => {
     }
 
     if (result === "no bone") {
-        resultDisplay.append("Damn, it's not a bone day");
+        resultDisplay.append("Damn, it's not a bones day");
     }
 
     console.log(resultDisplay)
